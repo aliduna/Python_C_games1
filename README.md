@@ -1,45 +1,76 @@
-# 👋 Welcome | Hoş Geldiniz
+# 👋 Hello, I'm Addu!
 
-## 🇬🇧 English
+🇬🇧 **English**
 
-Hello! I'm a software developer who enjoys learning, building, and experimenting with different technologies.
+Hello! My nickname is **Addu**.
 
-This GitHub profile contains projects developed in:
+I'm passionate about programming, especially **Python**, **C**, and **C++**. I enjoy building projects, experimenting with new ideas, and learning something new every day.
 
-* 🐍 Python
-* ⚙️ C
-* 🚀 C++
+My goal is not only to improve myself but also to help others learn, experiment, and discover programming through the projects I share.
 
-Most of these projects are created to improve my programming skills, explore new concepts, and solve interesting problems. You'll find games, algorithms, automation tools, experiments, and various software projects here.
+## 💻 Languages
 
-### Goals
+- 🐍 Python
+- ⚙️ C
+- 🚀 C++
 
-* Improve my software development skills.
-* Learn new technologies and algorithms.
-* Build useful and creative projects.
-* Share my progress with the community.
+## 📂 About My Projects
 
-Thank you for visiting my profile!
+Most of my projects are created to:
+
+- Improve my programming skills.
+- Learn new technologies and algorithms.
+- Solve interesting problems.
+- Build useful and creative software.
+- Share my progress with the community.
+
+Here you'll find games, algorithms, automation tools, experiments, and many other software projects.
+
+## 🎯 Goals
+
+- Continuously improve my software development skills.
+- Learn new technologies and programming concepts.
+- Create useful and creative projects.
+- Share knowledge with the community.
+
+⭐ Thank you for visiting my GitHub profile. Have a great day!
+
 
 ---
 
-## 🇹🇷 Türkçe
+# 👋 Merhaba, ben Addu!
 
-Merhaba! Farklı teknolojileri öğrenmeyi, geliştirmeyi ve denemeyi seven bir yazılım geliştiricisiyim.
+🇹🇷 **Türkçe**
 
-Bu GitHub profilinde şu dillerle geliştirdiğim projeleri bulabilirsiniz:
+Merhaba! Benim lakabım **Addu**.
 
-* 🐍 Python
-* ⚙️ C
-* 🚀 C++
+Özellikle **Python**, **C** ve **C++** ile programlama yapmayı seviyorum. Yeni fikirler geliştirmek, projeler üretmek ve her gün yeni bir şey öğrenmek benim için büyük bir keyif.
 
-Projelerimin çoğu; programlama becerilerimi geliştirmek, yeni konuları öğrenmek ve ilgi çekici problemler çözmek amacıyla hazırlanmıştır. Burada oyunlar, algoritmalar, otomasyon araçları, deneysel çalışmalar ve çeşitli yazılım projeleri yer almaktadır.
+Amacım yalnızca kendimi geliştirmek değil, aynı zamanda paylaştığım projeler sayesinde insanların programlamayı öğrenmesine, denemesine ve yeni teknolojileri keşfetmesine katkı sağlamaktır.
 
-### Hedeflerim
+## 💻 Kullandığım Diller
 
-* Yazılım geliştirme becerilerimi sürekli geliştirmek.
-* Yeni teknolojiler ve algoritmalar öğrenmek.
-* Faydalı ve yaratıcı projeler üretmek.
-* Gelişim sürecimi toplulukla paylaşmak.
+- 🐍 Python
+- ⚙️ C
+- 🚀 C++
 
-Profilimi ziyaret ettiğiniz için teşekkür ederim! ⭐
+## 📂 Projelerim Hakkında
+
+Projelerimin çoğu şu amaçlarla geliştirilmektedir:
+
+- Programlama becerilerimi geliştirmek.
+- Yeni teknolojiler ve algoritmalar öğrenmek.
+- İlgi çekici problemler çözmek.
+- Faydalı ve yaratıcı yazılımlar üretmek.
+- Gelişim sürecimi toplulukla paylaşmak.
+
+Burada oyunlar, algoritmalar, otomasyon araçları, deneysel çalışmalar ve çeşitli yazılım projeleri bulabilirsiniz.
+
+## 🎯 Hedeflerim
+
+- Yazılım geliştirme becerilerimi sürekli geliştirmek.
+- Yeni teknolojiler ve programlama kavramları öğrenmek.
+- Faydalı ve yaratıcı projeler üretmek.
+- Toplulukla bilgi paylaşımında bulunmak.
+
+⭐ Profilimi ziyaret ettiğiniz için teşekkür ederim. İyi günler!
