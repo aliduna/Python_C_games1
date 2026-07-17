@@ -48,12 +48,6 @@ def tahmin_al(alt_sinir, ust_sinir, gizli_sayi=None):
         if giris in ("s", "q"):
             return giris
 
-        # ! Geçici test komutu: oyun sırasında tutulan sayıyı gösterir.
-        # TODO daha sonra kaldırılması lazım
-        if giris == "abcd12" and gizli_sayi is not None:
-            print(f"[TEST] Tutulan sayı: {gizli_sayi}")
-            continue
-
         try:
             sayi = int(giris)
             if alt_sinir <= sayi <= ust_sinir:
@@ -285,9 +279,8 @@ def oyun_oyna():
             print("Oyun kapatılıyor. Görüşürüz!")
             return False
         if tahmin == "s":
-            deneme_sayisi += 1
-            print("Tur atlandı. Gizli sayı değişmedi.")
-            continue
+            print("Tur atlandı.")
+            break
 
         if sans_modu == "Süreye Karşı" and time.monotonic() - baslangic_zamani >= 45:
             print(f"\nSüre doldu. Sayı {gizli_sayi} idi.")
