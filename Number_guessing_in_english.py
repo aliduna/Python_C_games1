@@ -48,12 +48,6 @@ def get_guess(lower_bound, upper_bound, secret_number=None):
         if user_input in ("s", "q"):
             return user_input
 
-        # ! Temporary test command: shows the secret number during gameplay.
-        # TODO needs to be removed later
-        if user_input == "abcd12" and secret_number is not None:
-            print(f"[TEST] Secret number: {secret_number}")
-            continue
-
         try:
             number = int(user_input)
             if lower_bound <= number <= upper_bound:
@@ -284,9 +278,8 @@ def play_game():
             print("Closing the game. Goodbye!")
             return False
         if guess == "s":
-            attempts += 1
-            print("Turn skipped. The secret number remains the same.")
-            continue
+            print("Turn skipped.")
+            break
 
         if chance_mode == "Against Time" and time.monotonic() - start_time >= 45:
             print(f"\nTime's up! The number was {secret_number}.")
